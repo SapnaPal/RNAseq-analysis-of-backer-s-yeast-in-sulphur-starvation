@@ -1,8 +1,6 @@
-# RNAseq-analysis-of-backer-s-yeast-in-sulphur-starvation
+# RNAseq analysis of Saccharomyces cerevisiae (backer's yeast) in sulphur starvation
 
-## RNAseq analysis of Saccharomyces cerevisiae (backer's yeast) in sulphur starvation
-
-This analysis is done as a self tutring project to understand RNAseq data and its possible outcomes.
+## This analysis is done as a self tutring project to understand RNAseq data and its possible outcomes.
 
 Project: PRJNA842028
 
